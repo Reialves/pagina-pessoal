@@ -1,0 +1,87 @@
+body{
+    background-image: url('https://www.suporteinfra.com.br/wp-content/uploads/2017/07/bigstock-Fintech-Icon-On-Abstract-Fina-180023899.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: blck;
+    margin: 0px;
+    font-family: monospace;
+}
+
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    padding: 15px;
+    font-weight: 600;
+}
+header{
+    max-width: 1000px;
+    background-color: rgba(255, 255, 255, 0.450);
+    margin-left: auto;
+    margin-right: auto;
+    height: 140px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    border-radius: 8px 8px 0px 0px;
+   
+}
+header img{
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(-50%);
+    border: 6px solid rgba(255, 255, 255, 0.450);
+}
+header h1{
+    text-align: center;
+    color: black;
+    transform: translateY(-110px);
+}
+article div{
+    padding-top: 12px;
+    max-width: 1000px;
+    background-color: rgba(255, 255, 255, 0.450);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    border-radius: 0px 0px 8px 8px;
+    
+}
+button{
+    
+    width: 140px;
+    height: 30px;
+    background-color: rgb(49, 126, 199);
+    margin: 4px;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: rgba(49, 126, 199, 0.514);
+    cursor: pointer;
+}
+ul{
+    margin-bottom: 100px;
+    display: block;
+    margin-left: 140px;
+    margin-right: auto;
+}
+li{
+    display: inline;
+    list-style: none;
+    
+}
+a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+#caixaBotoes{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;  
+    background-color: transparent;
+}
